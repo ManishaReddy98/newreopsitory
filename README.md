@@ -1,2 +1,3 @@
 # newreopsitory
-I is an sample repositpory
+It is an sample repositpory
+in github
